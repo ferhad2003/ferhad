@@ -1,0 +1,6 @@
+# Proje bagimliliklari (yalnizca salt-okur veri + simulasyon; cuzdan kütüphanesi YOK)
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Gelistirme/test araclari
+pytest>=8.0.0

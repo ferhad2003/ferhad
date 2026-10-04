@@ -1,4 +1,10 @@
-node_modules/
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.localnode_modules/
 .next/
 dist/
 build/
